@@ -4,4 +4,4 @@
 # Running it from a terminal using the function "python sipmdata.py --qrcodes [INPUT DESIRED QR CODES HERE]" produces the graphic(s).
 
 # The file "goodbadcomparison.py" creates csv files for the average pulls, max pulls, and divergences of vTiles. These are then used to
-# produce graphs in the file "goodbadpullsgraphs", producing plots where good and bad tiles can be compared easily.
+# produce graphs in the file "goodbadpullsgraphs.py", producing plots where good and bad tiles can be compared easily.

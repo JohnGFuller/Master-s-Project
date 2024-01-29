@@ -3,3 +3,5 @@
 # File "sipmdata.py" creates a graphic, showing the vTile as a heat map. Red denotes poorer performing SiPMs on the tile, with a greater pull, whilst blue are better performing SiPMs. 
 # Running it from a terminal using the function "python sipmdata.py --qrcodes [INPUT DESIRED QR CODES HERE]" produces the graphic(s).
 
+# The file "goodbadcomparison.py" creates csv files for the average pulls, max pulls, and divergences of vTiles. These are then used to
+# produce graphs in the file "goodbadpullsgraphs", producing plots where good and bad tiles can be compared easily.

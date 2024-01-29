@@ -1,0 +1,5 @@
+# GitHub reposiory wasn't set up until 29/1/24, so unfortunately modifications to the code made to this point can't be noted.
+
+# File "sipmdata.py" creates a graphic, showing the vTile as a heat map. Red denotes poorer performing SiPMs on the tile, with a greater pull, whilst blue are better performing SiPMs. 
+# Running it from a terminal using the function "python sipmdata.py --qrcodes [INPUT DESIRED QR CODES HERE]" produces the graphic(s).
+

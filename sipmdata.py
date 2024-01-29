@@ -121,12 +121,7 @@ def analyse_qrcodes(qrcodes):
 
 		plt.show()
 
-def plot_comparison(all_pulls, qrcodes):
-	averages = [stats[0] for stats in all_pulls]
-	max_pulls = [stats[1] for stats in all_pulls]
-	dispersions = [stats[2] for stats in all_pulls]
 
-	x = np.arange(len(qrcodes))
 
 def parse_args():
 	parser = argparse.ArgumentParser(description='Pass/Fail System')
